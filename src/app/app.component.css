@@ -1,0 +1,9 @@
+div {
+  float: left;
+  margin-right: 1em;
+  max-width: 50%;
+}
+
+img {
+  width: 100%;
+}
